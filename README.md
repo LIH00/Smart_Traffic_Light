@@ -93,9 +93,8 @@ yolo predict
 * .pt 모델 경로 설정 후 실행
 
 ```shell
-model1 = YOLO('/examPath/besthw2.pt')
-model2 = YOLO('/examPath/updatepj.pt')
-model3 = YOLO('/examPath/bestBchan2.pt')
+model1 = YOLO('best.pt')
+
 ```
 
 

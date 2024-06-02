@@ -102,7 +102,8 @@ model1 = YOLO('best.pt')
 
 * 프로젝트 실행 화면    
   
-![Alt text](sample.png)
+![Alt text](stl1.png)
+![Alt text](stl2.png)
 
 
 

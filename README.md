@@ -109,3 +109,5 @@ model1 = YOLO('best.pt')
 ## Appendix
 
 * 참고 자료 및 알아두어야할 사항들 기술
+  
+* [OpenCV](https://github.com/opencv/opencv)

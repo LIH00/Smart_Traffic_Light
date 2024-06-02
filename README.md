@@ -106,6 +106,14 @@ model1 = YOLO('best.pt')
 ![Alt text](stl2.png)
 
 
+https://github.com/LIH00/Smart_Traffic_Light/assets/157570308/39327677-7e20-41c0-b17f-ed6801b90052
+
+
+
+https://github.com/LIH00/Smart_Traffic_Light/assets/157570308/4088d0a2-3970-451f-aefa-841e3d11e986
+
+
+
 
 ## Appendix
 
